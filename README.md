@@ -2,16 +2,16 @@
 Discrete-time simulation of competing ant colonies on a 2D grid, developed in C++ as part of the **Tchanz** project.
 The goal is to study whether a stable equilibrium can emerge when multiple colonies interact with limited resources.
 
-<img src="TCHANZ_code/img_output.png" alt="Simulation overview" width="400">
+<img src="TCHANZ_code/img_output.png" alt="Simulation overview" width="300">
 
 ## 🐜 Project Overview
 
 Each ant colony evolves autonomously in a discrete environment and is composed of different ant roles:
 
-- **Generator** – stores food, consumes resources, and spawns new ants  
-- **Collector** – searches for food and brings it back to the colony  
-- **Defensor** – protects the colony border  
-- **Predator** – attacks enemy collectors and predators  
+- **Generator**: stores food, consumes resources, and spawns new ants  
+- **Collector**: searches for food and brings it back to the colony  
+- **Defensor**: protects the colony border  
+- **Predator**: attacks enemy collectors and predators  
 
 Food appears randomly over time, colonies grow or shrink depending on resources, and colonies may disappear entirely.
 
