@@ -2,8 +2,7 @@
 Discrete-time simulation of competing ant colonies on a 2D grid, developed in C++ as part of the **Tchanz** project.
 The goal is to study whether a stable equilibrium can emerge when multiple colonies interact with limited resources.
 
-![Simulation overview](TCHANZ_code/img_output.png)
-
+<img src="TCHANZ_code/img_output.png" alt="Simulation overview" width="400">
 ---
 
 ## 🐜 Project Overview
@@ -26,7 +25,7 @@ Food appears randomly over time, colonies grow or shrink depending on resources,
 - Role-based agent behaviors
 - Colony growth constraints and collisions
 - MVC-inspired architecture
-- GTKmm graphical interface (Rendu 2 & 3)
+- GTKmm graphical interface 
 
 
 
