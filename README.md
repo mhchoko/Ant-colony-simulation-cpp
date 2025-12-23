@@ -3,7 +3,6 @@ Discrete-time simulation of competing ant colonies on a 2D grid, developed in C+
 The goal is to study whether a stable equilibrium can emerge when multiple colonies interact with limited resources.
 
 <img src="TCHANZ_code/img_output.png" alt="Simulation overview" width="400">
----
 
 ## 🐜 Project Overview
 
@@ -15,8 +14,6 @@ Each ant colony evolves autonomously in a discrete environment and is composed o
 - **Predator** – attacks enemy collectors and predators  
 
 Food appears randomly over time, colonies grow or shrink depending on resources, and colonies may disappear entirely.
-
----
 
 ## Key Concepts
 
