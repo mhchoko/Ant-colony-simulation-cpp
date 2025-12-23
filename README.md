@@ -2,7 +2,7 @@
 Discrete-time simulation of competing ant colonies on a 2D grid, developed in C++ as part of the **Tchanz** project.
 The goal is to study whether a stable equilibrium can emerge when multiple colonies interact with limited resources.
 
-![Simulation overview](images/simulation.png)
+![Simulation overview](TCHANZ_code/img_output.png)
 
 ---
 
